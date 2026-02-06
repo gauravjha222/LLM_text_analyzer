@@ -3,7 +3,7 @@
 This project analyzes responses from multiple Large Language Models (LLMs) for the same user query and extracts common meaningful patterns such as property types (BHK) and price ranges.
 The goal is to keep the logic simple, transparent, and easy to explain, while avoiding unnecessary complexity or paid API overuse.
 
-# Problem Statement
+## Problem Statement
 
 Different LLMs often give long and descriptive answers for the same question.
 Manually comparing them is time-consuming and messy.

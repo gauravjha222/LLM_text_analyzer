@@ -1,0 +1,113 @@
+{
+  "query": "rent in koramangala",
+  "models_used": [
+    "ChatGPT",
+    "Gemini",
+    "Llama"
+  ],
+  "responses": [
+    {
+      "model": "ChatGPT",
+      "response": "The average rent in Koramangala, Bangalore ranges from Rs. 15,000 to Rs. 40,000 per month for a 1BHK apartment, depending on the location, size, and amenities. For 2BHK and 3BHK apartments, the rent can be higher, ranging from Rs. 25,000 to Rs. 70,000 per month. It is advisable to research and compare different listings to find the best deal according to your budget and preferences.",
+      "analysis": {
+        "bhk": [
+          "2bhk",
+          "3bhk",
+          "1bhk"
+        ],
+        "blocks": [],
+        "amenities": [],
+        "prices": [
+          15000,
+          25000,
+          40000,
+          70000
+        ]
+      }
+    },
+    {
+      "model": "Gemini",
+      "response": "Renting in Koramangala, Bangalore, is a popular choice for many, especially young professionals, students, and families due to its vibrant lifestyle, excellent amenities, and strategic location. However, it's also one of the more expensive localities in the city.\n\nHere's a comprehensive guide to what you can expect:\n\n### Why Rent in Koramangala?\n\n**Pros:**\n1.  **Central Location & Connectivity:** Well-connected to major IT hubs like Electronic City, Silk Board, and other parts of Bangalore. Close to Outer Ring Road (ORR).\n2.  **Vibrant Lifestyle:** Famous for its myriad restaurants, cafes, pubs, shopping centers, and nightlife. There's always something to do.\n3.  **Amenities:** Abundance of supermarkets, hospitals, educational institutions, gyms, parks, and other essential services.\n4.  **Job Opportunities:** Home to many startups, co-working spaces, and company offices.\n5.  **Greenery:** Compared to some other commercial areas, Koramangala has relatively more tree-lined streets and parks.\n6.  **Diverse Community:** Attracts a mix of people, including expats, professionals, and students.\n\n**Cons:**\n1.  **High Rent:** It's one of Bangalore's most expensive residential areas.\n2.  **Traffic Congestion:** Being a popular hub, traffic can be heavy, especially during peak hours.\n3.  **Noise Levels:** Some blocks, particularly those closer to main roads, can be quite noisy.\n4.  **Deposit Requirements:** Landlords typically ask for 6-10 months of rent as a security deposit, which can be a substantial upfront cost.\n5.  **Availability:** Good properties, especially at reasonable prices, get snatched up quickly.\n\n### Types of Accommodation & Expected Rent Ranges (as of early 2024 - highly variable)\n\nPrices are significantly influenced by the specific block, furnishing level (unfurnished, semi-furnished, fully-furnished), age of the building, and amenities (gated community, gym, power backup, etc.).\n\n1.  **Paying Guest (PG) / Co-living Spaces:**\n    *   **Shared Room:** INR 8,000 - 15,000 per person/month (with food, laundry, cleaning)\n    *   **Single Room:** INR 12,000 - 25,000 per person/month (with food, laundry, cleaning)\n    *   *Best for:* Students, single professionals, those new to the city.\n\n2.  **1 BHK Apartment / Studio Apartment:**\n    *   **Unfurnished/Semi-furnished:** INR 15,000 - 30,000 per month\n    *   **Fully-furnished:** INR 20,000 - 40,000 per month\n    *   *Best for:* Singles, couples.\n\n3.  **2 BHK Apartment:**\n    *   **Unfurnished/Semi-furnished:** INR 25,000 - 50,000 per month\n    *   **Fully-furnished:** INR 35,000 - 65,000 per month\n    *   *Best for:* Couples, small families, 2-3 professionals sharing.\n\n4.  **3 BHK Apartment:**\n    *   **Unfurnished/Semi-furnished:** INR 40,000 - 70,000+ per month\n    *   **Fully-furnished:** INR 50,000 - 90,000+ per month\n    *   *Best for:* Larger families, 3-4 professionals sharing.\n\n5.  **Independent Houses / Villas:**\n    *   **Rare & Expensive:** INR 70,000 - 1,50,000+ per month (depending on size, location, and amenities)\n    *   *Best for:* Larger families seeking privacy and space.\n\n### Key Factors Influencing Rent:\n\n*   **Block Number:** 4th, 5th, 6th Blocks are generally the most expensive due to their central location and commercial activity. 1st, 2nd, 3rd, 7th, 8th Blocks might offer slightly lower rents or more residential options.\n*   **Furnishing:** Unfurnished < Semi-furnished (wardrobes, kitchen cabinets, basic lights/fans) < Fully-furnished (beds, sofas, AC, washing machine, fridge, etc.).\n*   **Building Type:** Gated communities with amenities (clubhouse, pool, gym) are more expensive than standalone apartments.\n*   **Proximity to Main Roads/Landmarks:** Properties closer to major roads, prominent cafes, or offices often command higher rents.\n*   **Age and Condition of the Property:** Newer, well-maintained properties cost more.\n\n### How to Find a Place:\n\n1.  **Online Portals:**\n    *   **NoBroker.com:** Connects directly with owners, avoiding brokerage fees. Very popular in Bangalore.\n    *   **99acres.com, MagicBricks.com, Housing.com:** Large inventory, often include broker listings.\n    *   **NestAway, Zolo, Stanza Living:** For PGs and co-living spaces.\n\n2.  **Local Brokers:** They have deep knowledge of available properties and can save you time, but typically charge one month's rent as a brokerage fee.\n\n3.  **Social Media Groups:** Facebook groups like \"Bangalore Expats,\" \"Koramangala Rentals,\" or specific apartment complex groups often have direct owner postings.\n\n4.  **Word of Mouth:** Ask friends, colleagues, or local shopkeepers.\n\n### Tips for Renters:\n\n*   **Start Early:** Especially if you're looking for specific requirements, good places go fast.\n*   **Budget for Deposit:** Keep 6-10 months of rent aside for the security deposit.\n*   **Read the Lease Agreement Carefully:** Pay close attention to clauses regarding notice period, maintenance charges, pet policy, lock-in period, and deposit refund.\n*   **Visit the Property:** Always inspect the property in person. Check water pressure, electricity points, overall condition, and mobile network coverage.\n*   **Negotiate:** Don't hesitate to negotiate on rent or terms, especially for unfurnished properties or during off-peak seasons.\n*   **Check Utilities:** Inquire about water supply (borewell vs. Cauvery), power backup, and garbage disposal.\n\nKoramangala offers a fantastic living experience, but it comes at a premium. Be prepared for the costs and the competition!",
+      "analysis": {
+        "bhk": [
+          "2bhk",
+          "studio",
+          "3bhk",
+          "1bhk"
+        ],
+        "blocks": [
+          "8",
+          "6"
+        ],
+        "amenities": [
+          "gym",
+          "security",
+          "power backup"
+        ],
+        "prices": [
+          12000,
+          15000,
+          20000,
+          25000,
+          30000,
+          35000,
+          40000,
+          50000,
+          65000,
+          70000,
+          90000
+        ]
+      }
+    },
+    {
+      "model": "Llama",
+      "response": "Koramangala is a popular neighborhood in Bangalore, India, known for its upscale shopping, dining, and entertainment options. The rent prices in Koramangala can vary depending on the location, size, and type of accommodation. Here's a rough estimate of rent prices in Koramangala:\n\n**1 BHK Flats:**\n\n* Shared accommodation (rented room): \u20b98,000 - \u20b912,000 ( approx. $110-$165 USD) per month\n* Furnished 1 BHK flat: \u20b925,000 - \u20b940,000 (approx. $340-$540 USD) per month\n* Semi-furnished 1 BHK flat: \u20b920,000 - \u20b935,000 (approx. $270-$475 USD) per month\n* Unfurnished 1 BHK flat: \u20b918,000 - \u20b930,000 (approx. $245-$410 USD) per month\n\n**2 BHK Flats:**\n\n* Shared accommodation (rented room): \u20b910,000 - \u20b915,000 (approx. $137-$205 USD) per month\n* Furnished 2 BHK flat: \u20b935,000 - \u20b960,000 (approx. $475-$810 USD) per month\n* Semi-furnished 2 BHK flat: \u20b928,000 - \u20b950,000 (approx. $380-$675 USD) per month\n* Unfurnished 2 BHK flat: \u20b925,000 - \u20b945,000 (approx. $340-$610 USD) per month\n\n**3 BHK Flats:**\n\n* Shared accommodation (rented room): \u20b912,000 - \u20b920,000 (approx. $165-$270 USD) per month\n* Furnished 3 BHK flat: \u20b945,000 - \u20b980,000 (approx. $610-$1,080 USD) per month\n* Semi-furnished 3 BHK flat: \u20b938",
+      "analysis": {
+        "bhk": [
+          "2bhk",
+          "3bhk",
+          "1bhk"
+        ],
+        "blocks": [],
+        "amenities": [],
+        "prices": [
+          10000,
+          12000,
+          15000,
+          18000,
+          20000,
+          25000,
+          28000,
+          30000,
+          35000,
+          40000,
+          45000,
+          50000,
+          60000,
+          80000
+        ]
+      }
+    }
+  ],
+  "common_patterns": {
+    "bhk": [
+      "2bhk",
+      "3bhk",
+      "1bhk"
+    ],
+    "blocks": [],
+    "amenities": [],
+    "prices": [
+      15000,
+      25000,
+      40000,
+      70000,
+      12000,
+      20000,
+      30000,
+      35000,
+      50000
+    ]
+  },
+  "generated_at": "2026-02-06T16:47:34.431086"
+}

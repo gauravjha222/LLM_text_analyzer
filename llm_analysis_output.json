@@ -1,0 +1,114 @@
+{
+  "query": "rent in koramangala",
+  "models_used": [
+    "ChatGPT",
+    "Gemini",
+    "Llama"
+  ],
+  "responses": [
+    {
+      "model": "ChatGPT",
+      "raw_response": "The rent in Koramangala, Bangalore can vary depending on the type of accommodation and amenities provided. On average, the rent for a 1-bedroom apartment in Koramangala ranges from Rs. 15,000 to Rs. 25,000 per month. A 2-bedroom apartment can cost anywhere from Rs. 25,000 to Rs. 40,000 per month. Additionally, there are luxury apartments and villas available for rent in Koramangala, which can cost upwards of Rs. 50,000 per month.",
+      "analysis": {
+        "bhk": [],
+        "blocks": [],
+        "amenities": [],
+        "prices": [
+          15000,
+          25000,
+          40000,
+          50000
+        ]
+      },
+      "improved_response": "Monthly rents typically range from \u20b915000 to \u20b950000."
+    },
+    {
+      "model": "Gemini",
+      "raw_response": "Koramangala is one of the most sought-after and expensive residential areas in Bangalore, known for its vibrant nightlife, numerous cafes, restaurants, proximity to tech parks, and excellent social infrastructure. As a result, rent prices are generally on the higher side.\n\nThe rent in Koramangala can vary significantly based on several factors:\n\n1.  **Type of Accommodation:**\n    *   **PG (Paying Guest):** Shared rooms or private rooms, often including food and basic amenities.\n    *   **Studio/1BHK:** Small apartments suitable for singles or couples.\n    *   **2BHK:** Two-bedroom apartments, common for small families or shared by roommates.\n    *   **3BHK and above:** Larger apartments or independent houses/villas.\n\n2.  **Furnishing:**\n    *   **Unfurnished:** Just the basic structure.\n    *   **Semi-furnished:** Wardrobes, modular kitchen, light fittings, geysers.\n    *   **Fully furnished:** Includes furniture, appliances (AC, fridge, washing machine, TV, etc.).\n\n3.  **Location within Koramangala:**\n    *   **Prime Blocks (e.g., 4th, 5th, 6th, 7th Block):** Generally more expensive due to proximity to amenities, main roads, and quieter, tree-lined streets.\n    *   **Other Blocks (e.g., 1st, 2nd, 3rd, 8th Block):** Can be slightly less expensive but still premium.\n    *   **Proximity to specific landmarks:** Near Forum Mall, Christ University, major offices, etc.\n\n4.  **Amenities:**\n    *   **Gated Communities:** Apartments with amenities like swimming pools, gyms, security, power backup, clubhouses, etc., will be significantly more expensive.\n    *   **Standalone Buildings:** Standard apartments with basic security and parking.\n\n5.  **Age and Condition of the Property:** Newer constructions or recently renovated apartments will command higher rents.\n\n---\n\n**Estimated Rent Ranges (as of early 2024 - these are broad estimates and can fluctuate):**\n\n*   **PG Accommodation:**\n    *   **Shared Room:** \u20b98,000 - \u20b915,000 per person (often includes food and utilities)\n    *   **Private Room:** \u20b915,000 - \u20b925,000 per month (often includes food and utilities)\n\n*   **Studio Apartment / 1BHK:**\n    *   **Unfurnished/Semi-furnished:** \u20b918,000 - \u20b935,000 per month\n    *   **Fully furnished:** \u20b925,000 - \u20b945,000 per month\n\n*   **2BHK Apartment:**\n    *   **Unfurnished/Semi-furnished:** \u20b935,000 - \u20b960,000 per month (depending on size, building type, and block)\n    *   **Fully furnished:** \u20b945,000 - \u20b980,000+ per month\n    *   **In a gated community:** Can go upwards of \u20b960,000 - \u20b91,00,000+\n\n*   **3BHK Apartment:**\n    *   **Unfurnished/Semi-furnished:** \u20b950,000 - \u20b990,000 per month\n    *   **Fully furnished:** \u20b970,000 - \u20b91,20,000+ per month\n    *   **In a gated community:** \u20b990,000 - \u20b91,50,000+\n\n*   **Independent House/Villa:**\n    *   Can range from \u20b980,000 to \u20b92,50,000+ per month, depending heavily on size, plot area, furnishing, and specific block.\n\n---\n\n**Security Deposit:**\nBe prepared for a high security deposit, typically 6 to 10 months' worth of rent, which is standard in Bangalore.\n\n---\n\n**Tips for Finding a Place:**\n*   **Online Portals:** NoBroker, 99acres, MagicBricks, Housing.com are popular choices.\n*   **Facebook Groups:** Look for \"Koramangala Flat & Flatmates,\" \"Bangalore Rent/PG\" groups.\n*   **Local Brokers:** They can help, but will charge a commission (usually one month's rent).\n*   **Walk Around:** Sometimes you can find \"To Let\" signs on buildings, especially in the interior blocks.\n\nTo give you a more accurate idea, could you tell me a bit more about what you're looking for?\n*   **What type of accommodation?** (PG, 1BHK, 2BHK, etc.)\n*   **What's your budget range?**\n*   **Do you prefer furnished, semi-furnished, or unfurnished?**\n*   **Are you looking for a specific block or closer to a particular landmark?**",
+      "analysis": {
+        "bhk": [
+          "1bhk",
+          "2bhk",
+          "studio",
+          "3bhk"
+        ],
+        "blocks": [
+          "7",
+          "8"
+        ],
+        "amenities": [
+          "gym",
+          "parking",
+          "security",
+          "power backup"
+        ],
+        "prices": [
+          15000,
+          18000,
+          25000,
+          35000,
+          45000,
+          50000,
+          60000,
+          70000,
+          80000,
+          90000
+        ]
+      },
+      "improved_response": "Available configurations include 1bhk, 2bhk, studio, 3bhk apartments. Monthly rents typically range from \u20b915000 to \u20b990000. Popular rental blocks include Block 7, 8. Common amenities offered are gym, parking, security, power backup."
+    },
+    {
+      "model": "Llama",
+      "raw_response": "Rent prices in Koramangala, a neighborhood in Bengaluru, India, can vary greatly depending on factors such as the location, type of accommodation, and amenities. Here are some approximate rent prices in Koramangala:\n\n**Studio Apartments:**\n\n* Furnished: \u20b925,000 - \u20b940,000 per month ( approx. $320-$520 USD)\n* Unfurnished: \u20b918,000 - \u20b928,000 per month (approx. $230-$360 USD)\n\n**1 BHK (1 Bedroom, 1 Hall, Kitchen):**\n\n* Furnished: \u20b935,000 - \u20b955,000 per month (approx. $450-$720 USD)\n* Unfurnished: \u20b925,000 - \u20b940,000 per month (approx. $320-$520 USD)\n\n**2 BHK (2 Bedrooms, 2 Halls, Kitchen):**\n\n* Furnished: \u20b950,000 - \u20b985,000 per month (approx. $650-$1,100 USD)\n* Unfurnished: \u20b940,000 - \u20b970,000 per month (approx. $520-$900 USD)\n\n**3 BHK (3 Bedrooms, 3 Halls, Kitchen):**\n\n* Furnished: \u20b980,000 - \u20b91,20,000 per month (approx. $1,040-$1,600 USD)\n* Unfurnished: \u20b965,000 - \u20b91,00,000 per month (approx. $850-$1,300 USD)\n\n**Office Spaces:**\n\n* Furnished: \u20b920,000 - \u20b950,000 per month (approx. $260-$650 USD)\n* Unfurnished: \u20b915,000 - \u20b930,000 per month (approx. $190-$390 USD)\n\nPlease note that these prices are approximate and can vary depending on the specific location, age of the building, and amenities provided. Additionally, these prices may have changed since my knowledge cutoff date.\n\nIt's always a good idea to check current prices and negotiate with the landlord or property manager to get the best deal. You can also consider using online property portals or local brokers to find the right place for your needs and budget.",
+      "analysis": {
+        "bhk": [
+          "1bhk",
+          "2bhk",
+          "studio",
+          "3bhk"
+        ],
+        "blocks": [],
+        "amenities": [],
+        "prices": [
+          15000,
+          18000,
+          20000,
+          25000,
+          28000,
+          30000,
+          35000,
+          40000,
+          50000,
+          55000,
+          65000,
+          70000,
+          80000,
+          85000
+        ]
+      },
+      "improved_response": "Available configurations include 1bhk, 2bhk, studio, 3bhk apartments. Monthly rents typically range from \u20b915000 to \u20b985000."
+    }
+  ],
+  "common_patterns": {
+    "bhk": [
+      "1bhk",
+      "2bhk",
+      "studio",
+      "3bhk"
+    ],
+    "blocks": [],
+    "amenities": [],
+    "prices": [
+      15000,
+      25000,
+      40000,
+      50000,
+      18000,
+      35000,
+      70000,
+      80000
+    ]
+  },
+  "final_response": "Most rental listings in Koramangala commonly offer 1bhk, 2bhk, studio, 3bhk apartments. Across multiple models, monthly rents consistently fall between \u20b915000 and \u20b980000.",
+  "generated_at": "2026-02-10T17:35:58.430159"
+}

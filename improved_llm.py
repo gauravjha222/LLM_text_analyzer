@@ -87,7 +87,7 @@ def extract_details(text):
     return details
 
 
-# IMPROVED RESPONSE (PER MODEL)
+# IMPROVED RESPONSE 
 
 def build_improved_response(analysis):
     parts = []
@@ -119,7 +119,7 @@ def build_improved_response(analysis):
     return " ".join(parts)
 
 
-# FINAL CONSENSUS RESPONSE (MOST IMPORTANT)
+# FINAL CONSENSUS RESPONSE 
 
 def build_final_response(common):
     lines = []
@@ -139,9 +139,7 @@ def build_final_response(common):
     return " ".join(lines)
 
 
-# --------------------------------------------------
 # MAIN PIPELINE
-# --------------------------------------------------
 
 def main():
     collected = []
@@ -160,7 +158,7 @@ def main():
             "improved_response": build_improved_response(analysis)
         })
 
-# Find common patterns (present in at least half the models)
+# Find common patterns
     common = {}
     for key in ["bhk", "blocks", "amenities", "prices"]:
         values = []
